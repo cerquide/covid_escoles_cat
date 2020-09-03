@@ -1,0 +1,8 @@
+plotly
+jupyter
+pandas
+geopandas
+seaborn
+descartes
+sodapy
+mapclassify
